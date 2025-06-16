@@ -69,5 +69,4 @@ $book2 = new Book("To Kill a Mockingbird", 3);
 $member1 = new Member("John Doe");
 $member2 = new Member("Jane Smith");
 $member1->borrowBook($book1);
-$member1->borrowBook($book1);
 $member2->borrowBook($book2);
